@@ -1,1 +1,116 @@
+body, html {
+    background-color: #f6f6f6;
+}
 
+#painting {
+    background-color: #fff4db;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+#toprow {
+    height: 290px;
+}
+
+#bigbox {
+    width: 290px;
+    height: 290px;
+}
+
+.red {
+    background-color: #cc3333
+}
+
+.blue {
+    background-color: blue;
+
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black
+}
+
+.purple {
+    background-color: purple
+}
+
+.right {
+    float: right;
+}
+#divider1 { 
+    height: 290px;
+    width:10px;
+}
+
+.mediumbox {
+    width: 100px;
+    height: 140px;
+}
+
+#divider2 {
+    height: 10px;
+    width: 100px;
+}
+#middlerow {
+    height: 10px;
+    width: 400px;
+}
+
+#mediumbox2 {
+    height: 100px;
+    width: 100px;
+}
+
+#divider3 {
+    height: 100px;
+    width: 10px;
+}
+
+.right {
+    float: right;
+
+}
+
+.left {
+    float:left;
+}
+
+#divider4 {
+    height: 100px;
+    width: 10px;
+}
+
+.green{
+    background-color: green;
+}
+
+.tinybox {
+    height: 45px;
+    width: 20px;
+}
+
+#bottombig {
+    width: 250px;
+    height: 100px;
+}
+
+#bottomright {
+    float: right;
+}
+
+#tinydivider {
+    height: 10px;
+    width: 30px;
+}
+
+#tinybox {
+    height: 45px;
+    width: 30px;
+}
